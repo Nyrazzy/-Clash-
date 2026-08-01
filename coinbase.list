@@ -1,0 +1,9 @@
+DOMAIN-SUFFIX,coinbase.com
+DOMAIN,asset-metadata-service-production.s3.amazonaws.com
+DOMAIN,api.sardine.ai
+DOMAIN,p.sardine.ai
+DOMAIN-SUFFIX,d.sardine.ai
+DOMAIN,c.riskified.com
+DOMAIN,img.riskified.com
+DOMAIN,api.ipify.org
+DOMAIN,icanhazip.com
